@@ -37,7 +37,7 @@ This assignment should prove that a student is able to:
 - [X] All the tasks of the "Specific requirements" section MUST be solved
 - [X] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [X] Use `npm run test` to run all tests in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [X] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [X] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [X] The code MUST be formatted with Prettier
